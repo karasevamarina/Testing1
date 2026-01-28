@@ -8,15 +8,12 @@ telebot
 python-cfonts
 mechanize
 pyfiglet
-py_compile
 socks
 youtube_dl
-uuid
 pysocks
 beautifulsoup4
 pafy
 bs4
-argparse
 InstagramAPI
 generate_user_agent
 colorama
@@ -27,4 +24,3 @@ pycountry
 ms4
 Topython
 fake_useragent
-cfonts
