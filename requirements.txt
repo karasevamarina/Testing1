@@ -4,7 +4,7 @@ user-agent
 instaloader
 requests
 rich
-telebot
+pyTelegramBotAPI
 python-cfonts
 mechanize
 pyfiglet
