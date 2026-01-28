@@ -1,6 +1,6 @@
 OneClick
 stdiomask
-user_agent
+user-agent
 instaloader
 requests
 rich
@@ -15,12 +15,8 @@ beautifulsoup4
 pafy
 bs4
 InstagramAPI
-generate_user_agent
 colorama
 selenium
-asmix
 curl2pyreqs
 pycountry
-ms4
-Topython
-fake_useragent
+fake-useragent
