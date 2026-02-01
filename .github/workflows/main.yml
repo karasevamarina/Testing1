@@ -3,7 +3,7 @@ name: Run Telegram Bot
 on:
   workflow_dispatch:      # Allows you to click "Run workflow" manually
   schedule:
-    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+     crfon: '0 */6 * * *' # Runs automatically every 6 hours
 
 jobs:
   build-and-run:
